@@ -1,4 +1,4 @@
- # FIFA-18-Management-System (FMS)
+ # FIFA-22-Management-System (FMS)
 
 This repository contains all the project files and necessary details about softwares to run the project on your local machine.
 
